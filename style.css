@@ -1,0 +1,54 @@
+.buttons{
+    padding: 20;
+    background-color: whitesmoke;
+    overflow: hidden;
+    height: 40%;
+    width: 40%;
+    border-radius: 20px;
+}
+.buttons tr{
+    margin: 50x;
+    padding: 20px;
+    background-color: blue;
+    box-shadow: antiquewhite;
+    box-sizing: border-box;
+    border: 20px;
+    border-radius: 20px;
+    
+
+
+}
+.buttons th{
+    margin: 100x;
+    padding: 20px;
+    background-color: blue;
+    box-shadow: antiquewhite;
+    box-sizing: border-box;
+    border: 20px;
+    border-radius: 20px;
+    
+.cols{
+    margin: 100x;
+    padding: 20px;
+    background-color: blue;
+    box-shadow: antiquewhite;
+    box-sizing: border-box;
+    border: 20px;
+    border-radius: 20px;
+    align: center;
+}
+#display {
+    text-align: right;
+    height: 70px;
+    line-height: 70px;
+    padding: 16px 8px;
+    font-size: 25px;
+} 
+
+
+
+
+
+
+
+
